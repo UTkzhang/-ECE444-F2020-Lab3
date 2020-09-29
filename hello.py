@@ -14,7 +14,7 @@ moment = Moment(app)
 
 class NameEmailForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
-    email = StringField('What is your UofT Email address?', validators=[DataRequired(), Email()], render_kw={'type':'email'})
+    email = StringField('What is your UofT Email address?', validators=[DataRequired()], render_kw={'type':'email'})
     submit = SubmitField('Submit')
 
 
