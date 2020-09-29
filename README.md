@@ -2,6 +2,7 @@
  ECE444-F2020-Lab3 by Gensheng Zhang, note that this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 # Activity 1
+Example at the end of chapter 3 modified, I chose to modify the /user/<name> route instead of the / route shown in the screenshot, because I didn't think it made alot of sense to hard-code the name for the / page. I'd rather the user be able to pass the name in through the URL path.
 ![activity 1 screenshot](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/master/assignment_imgs/Snip20200928_33.png)
 
 # Activity 2
