@@ -1,3 +1,18 @@
+# ECE444-F2020-Lab4-And-Lab5
+# Deliverable 1
+This README along with all the changes should be in the branch "lab4_Microservice_Experiment", in the Lab3 repo.
+# Deliverable 2
+![activity 1 screenshot](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/master/assignment_imgs/Snip20201005_43.png)
+![activity 1 screenshot](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/master/assignment_imgs/Snip20201005_44.png)
+![activity 1 screenshot](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/master/assignment_imgs/Snip20201005_45.png)
+![activity 1 screenshot](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/master/assignment_imgs/Snip20201005_46.png)
+
+# Deliverable 3
+The biggest difference between a Virtual Machine (VM) and a container is that VMs each operate on a unique Guest operating system (OS), and maintains its own OS resources, binaries, libraries, and applications, whereas a container sits on top of a host OS and shares the OS kernal. Both provide an isolated and consistent environment for developer applications to run on, but containers are more agile (faster to spin up and take down), lighter in size (as they do not have to bundle together all the OS resources), and better utilize system resources with less overhead on the virtualization component. 
+
+A VM has "virtual" access to hardware resources through a hypervisor, meaning that each OS runs on a virtualized computer and sees its own "complete" set of processors, memory, storage, that is in reality a fraction of the physical resources. These operating systems on VMs do not share resources with each other, unlike programs running on the same OS. Contrarily, containers run as discrete processes on the OS, just like any other executable, and draws from the same pool of hardware resources as other programs on the host OS. The way that containers achieve its portability is by virtualizing the OS, rather than the computer hardware, by establishing its own file system and other support programs to run the contained software.
+
+
 # ECE444-F2020-Lab3
  ECE444-F2020-Lab3 by Gensheng Zhang, note that this repo is a clone of https://github.com/miguelgrinberg/flasky
 
