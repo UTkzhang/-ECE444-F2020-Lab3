@@ -2,10 +2,11 @@
 # Deliverable 1
 This README along with all the changes should be in the branch "lab4_Microservice_Experiment", in the Lab3 repo.
 # Deliverable 2
-![deliverable 2 screenshot 1](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_43.png)
-![deliverable 2 screenshot 2](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_44.png)
-![deliverable 2 screenshot 3](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_45.png)
-![deliverable 2 screenshot 4](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_46.png)
+
+![deliverable 2 screenshot 1](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_43.png | width=300)
+![deliverable 2 screenshot 2](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_44.png | width=300)
+![deliverable 2 screenshot 3](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_45.png | width=300)
+![deliverable 2 screenshot 4](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_46.png | width=300)
 
 # Deliverable 3
 The biggest difference between a Virtual Machine (VM) and a container is that VMs each operate on a unique Guest operating system (OS), and maintains its own OS resources, binaries, libraries, and applications, whereas a container sits on top of a host OS and shares the OS kernal. Both provide an isolated and consistent environment for developer applications to run on, but containers are more agile (faster to spin up and take down), lighter in size (as they do not have to bundle together all the OS resources), and better utilize system resources with less overhead on the virtualization component. 
