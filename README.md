@@ -4,11 +4,13 @@ This README along with all the changes should be in the branch "lab4_Microservic
 # Deliverable 2
 
 To build and start the system, first clone the repository <br>
-```git clone https://github.com/UTkzhang/ECE444-F2020-Lab3 & cd ECE444-F2020-Lab3```<br><br>
+```git clone https://github.com/UTkzhang/ECE444-F2020-Lab3 && cd ECE444-F2020-Lab3```<br><br>
 Check out the appropriate experimentation branch<br>
 ```git checkout lab4_Microservice_Experiment```<br><br>
 To start the docker container, simply use docker-compose<br>
 ```docker-compose up```<br><br>
+You can use ctrl-C to exit the container.
+
 See the following screenshot for reference (note that first time running requires a build process, which docker-compose will do automatically)
 ![deliverable 2 screenshot 3](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_45.png)
 
