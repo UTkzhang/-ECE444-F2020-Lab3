@@ -31,8 +31,8 @@ The biggest difference between a Virtual Machine (VM) and a container is that VM
 
 A VM has "virtual" access to hardware resources through a hypervisor, meaning that each OS runs on a virtualized computer and sees its own "complete" set of processors, memory, storage, that is in reality a fraction of the physical resources. These operating systems on VMs do not share resources with each other, unlike programs running on the same OS. Contrarily, containers run as discrete processes on the OS, just like any other executable, and draws from the same pool of hardware resources as other programs on the host OS. The way that containers achieve its portability is by virtualizing the OS, rather than the computer hardware, by establishing its own file system and other support programs to run the contained software.
 
-
---------FROM LAB 3--------
+<br><br><br><br>
+# --------FROM LAB 3--------
 
 # ECE444-F2020-Lab3
  ECE444-F2020-Lab3 by Gensheng Zhang, note that this repo is a clone of https://github.com/miguelgrinberg/flasky
