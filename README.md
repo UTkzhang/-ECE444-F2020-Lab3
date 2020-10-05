@@ -12,6 +12,7 @@ To start the docker container, simply use docker-compose<br>
 You can use ctrl-C to exit the container.
 
 See the following screenshot for reference (note that first time running requires a build process, which docker-compose will do automatically)
+
 ![deliverable 2 screenshot 3](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_45.png)
 
 The dockerfiles are located in the root directory of this repository, i.e. ECE444-F2020-Lab3/...
@@ -19,7 +20,7 @@ The dockerfiles are located in the root directory of this repository, i.e. ECE44
 The following screenshot shows the Lab 3 Acitivty 2 application running in docker
 ![deliverable 2 screenshot 1](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_43.png)
 
-The following screenshot shows the docker browser view after the container has been created and executing
+The following screenshot shows the docker browser view after the container has been created and is executing
 ![deliverable 2 screenshot 2](https://github.com/UTkzhang/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/assignment_imgs/Snip20201005_44.png)
 
 The following screenshot shows the list of docker images, the one for this lab is ece444-f2020-lab3_lab4and5-docker
