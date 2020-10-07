@@ -7,7 +7,7 @@ To build and start the system, first clone the repository <br>
 ```git clone https://github.com/UTkzhang/ECE444-F2020-Lab3 && cd ECE444-F2020-Lab3```<br><br>
 Check out the appropriate experimentation branch<br>
 ```git checkout lab4_Microservice_Experiment```<br><br>
-To start the docker container, simply use docker-compose<br>
+To start the docker container, simply use docker-compose. If you don't have docker, please install it first: https://docs.docker.com/get-started/<br>
 ```docker-compose up```<br><br>
 You can use ctrl-C to exit the container.
 
